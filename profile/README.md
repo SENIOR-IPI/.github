@@ -3,7 +3,7 @@ The [Senior International Prognostic Index]( https://doi.org/10.1111/bjh.70784) 
 
 It helps clinicians estimate survival outcomes and guides treatment decisions by stratifying patients into different risk groups based on several clinical factors shared with IPI and NCCN-IPI prognostic indexes.
 
-This repository contains informations on the developpment of the prognostic score and link to a web calculator app (IOS and ANDROID apps will be available soon).
+This repository contains informations on the developpment of the prognostic score and link to a [web calculator app](https://github.com/SENIOR-IPI/WEBAPP).
 
 ## Reference
 Dubois S, Cherblanc F, Belot A, Oberic L, Ghesquières H, Haioun C, Jais JP and Jardin F. *SENIOR-IPI: An easily applicable prognostic index for first-line large B-cell lymphomas patients >80 years treated with curative intent.* Br J Haematol. 2026; 00: 1–10. [https://doi.org/10.1111/bjh.70784](https://doi.org/10.1111/bjh.70784)
