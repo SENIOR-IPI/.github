@@ -6,4 +6,4 @@ It helps clinicians estimate survival outcomes and guides treatment decisions by
 This repository contains informations on the developpment of the prognostic score and link to a web calculator app (IOS and ANDROID apps will be available soon).
 
 ## Reference
-Dubois S, Cherblanc F, Belot A, Oberic L, Ghesquières H, Haioun C, et al. *SENIOR-IPI: An easily applicable prognostic index for first-line large B-cell lymphomas patients >80 years treated with curative intent.* Br J Haematol. 2026; 00: 1–10. [https://doi.org/10.1111/bjh.70784](https://doi.org/10.1111/bjh.70784)
+Dubois S, Cherblanc F, Belot A, Oberic L, Ghesquières H, Haioun C, Jais JP and Jardin F. *SENIOR-IPI: An easily applicable prognostic index for first-line large B-cell lymphomas patients >80 years treated with curative intent.* Br J Haematol. 2026; 00: 1–10. [https://doi.org/10.1111/bjh.70784](https://doi.org/10.1111/bjh.70784)
